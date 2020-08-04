@@ -1,0 +1,378 @@
+[[LoopTools]]
+arch = "aarch64"
+git-tree-sha1 = "703c94f37f3c95b30782f95151bbb8678c8f7f65"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "0cfd8514b8615e7f1176f6ca16c284d46a71d204e8c4a076fc81200ad3d93b96"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "aarch64"
+git-tree-sha1 = "dcc34569e49f379adce882eb3f6800fbd63266f8"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "0ad1503a6091161ac6b1cd74b545a1daf85d3bfe1efcb698645be5c79442a668"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "aarch64"
+git-tree-sha1 = "5a5d0dcfd016a73d2c55f12a596d672429b0f5f1"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "62a324895f2f2315b9c7bb2934f382aefd93c323931d43c3558e7508c24bc8ed"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "aarch64"
+git-tree-sha1 = "958cc4df74d2dee0a31d2c568e05099d6d7273f0"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "f5c992c55d8d143161bc03f6542b298df4b31b6670b1184571aba0b281422712"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "aarch64"
+git-tree-sha1 = "712ba778cf3177296c7b335dde8d1838b6ad452f"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "bf7abe1d5d75afed1ffc3f6b5351e626ac675d27ee4841d9e2e885eef4077ebe"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "aarch64"
+git-tree-sha1 = "7d87d5baa0f770ec69b770cf15af2fae7fb0b70a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "3ead662c57e5c458dd614034f00c9e60ec8b8993b53a73b299c42e4286810fbd"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "armv7l"
+git-tree-sha1 = "f18d5eab7be2d28206649bc2259baf370641b3d4"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "29964928f69e32b52e696ec0c4f308ea239294ec2358afd53c950f89caa07ab0"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.armv7l-linux-gnueabihf-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "armv7l"
+git-tree-sha1 = "71a0e087ee0b5b21b18be5d94fa77d6bc58ba327"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "a08f31bfeabcb0cc6934077db435b3f248d64565e83fd4451df8065af79cebec"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.armv7l-linux-gnueabihf-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "armv7l"
+git-tree-sha1 = "92f0a5aa239829a7f7fc0de71b83de05d71cc317"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "d5b00daaebeca88345af71c625cd4eef44aae6da5285f858d151946bab45ea7c"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.armv7l-linux-gnueabihf-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "armv7l"
+git-tree-sha1 = "00becd3d369fb6aedf48e7a83d13fae4c289260a"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "cbebd5e5dcf76fd436f375481ec222c9149126530deed651c52a6985fc20dd3d"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.armv7l-linux-musleabihf-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "armv7l"
+git-tree-sha1 = "c73e1ce29653768e807fe7a00184880498250719"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "8e56686d35d683cbebe928ee988f2a6527fb5374109c965288b597232a07bc78"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.armv7l-linux-musleabihf-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "armv7l"
+git-tree-sha1 = "a532532e3c158d091ce4751d1d34158ace75688c"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "89fa06bc20dcce62e1512b8f223098e814ee7218eba74033f48227b41212d31e"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.armv7l-linux-musleabihf-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "3f613a6c26cf0a57affe8619616c04e6cceb61ee"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "78c79b834cbe5442cecaf18db3d9891a83c8fc5ddd7b173e06fb5ed99d6b2bb4"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "0dc5ff2cd8c186811609336ac1d065001a95b195"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "31c254fec0dd60043a6d4d75b43561c540f620628fd5e6542eb5121b55094aaf"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "49ce4fac54d6a3675ed828993398c8fd604167f4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "919afcb1a5a4a397bfb5d9097593a7cce2d5107721d13e0439d108849b89007f"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-linux-gnu-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "1823feb07782bba0511d4bc24fa45f70436faf78"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "29cee24961ec43a7ee49939c1d985df924741293a7ace7ca7450ded9bd9172ce"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-linux-musl-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "7368fbbb6515382526c72aeaf7db4d402bd66acb"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "3d97ea8ef415bd310b47f9e387f1a363b684d13511f30fa89e45496af2519df0"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-linux-musl-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "8f9e51bbd5dd71288568c371d38d68725884f628"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "8c66d3d3a3fd97fd82c036365eaa45bd5ebc5f2d1df8aef594d80d2e6fef0110"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-linux-musl-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "2165017399c1a7e006e4fab632814e550cbc02e5"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "6344e5a8749a527505533a28a297c5f6b502c2a1a6c061a8d47db813687910a4"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "23772ce6bad34b4af54066012b59c15cf2e7db13"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "0013b7095b6d86cb98197e5f22f6f81df1d6d914a7c6d24491644cb77697ec1b"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "i686"
+git-tree-sha1 = "f44a418802f421f6f618201f1a3b728af76365fa"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "c53bd9b4dacb48ce4fbf9e2a2f168ccc72ca784dffb46bcbb5379b0af1f06265"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "powerpc64le"
+git-tree-sha1 = "36543f87c236d4a8af30469f3dc567ca3994dd90"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "e0f58da685de20a78250708bf15281d5ed2a8a87498d883d2f35998f1cfb4172"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "powerpc64le"
+git-tree-sha1 = "5052c1b8d90b9e8f786149639b408dd74c4d4315"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "c4dbcc37075ae26a382ef6ba516a2b32e0df72c215e8c5e30e158ae0692db618"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "powerpc64le"
+git-tree-sha1 = "af4d5318431c6e63c3f554385697d02222fa6f2a"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "a693450e36e42a7191d388fd4420584ba1d023aeab6c39cc5b86ae3416fe29a7"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "41299eb4c78822d279468d50f192f3ac7b858362"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[LoopTools.download]]
+    sha256 = "602c4ed922aca230678d692508ee17b559dfcc0de35af83665d5a85ebc7d0ed4"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "553a65ba6f7e9f4772777425e55dd2cfc1668a9c"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[LoopTools.download]]
+    sha256 = "2a448a9940ffb401ea264524df0802bfd939dfbc42cf574468d9027d68e3b662"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "9fcd3740356947a0c1b4763325644959817d429a"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[LoopTools.download]]
+    sha256 = "ddf1994606a6ceadf986a1f1ca03274a729f17f4f7c2d586902108fb86a75e80"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "9ae054d16a73e4058655056ab4ec94bbb251a04d"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "3e2d35ca1394dc28344e9ef5d19232025092442ff1e7b95b5874f373856117ee"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "0e8c1684c761402fb7ae2691b6c450c48b1ae8d0"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "996e5012fc684b7c9475feb946111f49b61e2d5c6b2e7428791dd59680a0ddbb"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "dd2f48938b50cfe1b104af43c21808afaada8ec4"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "1f552dd3d8f60e7b8d8aaecc46d99624cf4e01dacec187c1b2f33a0d3936f1e8"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "732b6d3e28d22a71920125474687558e88d545b5"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "cb241e4917cd3e79565ba8a7142d8465b19024fccea81b560a0601c5651ac979"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "0f3df84104d4bee80fa5c11b44af76cc7218574c"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "f3d477b8e31b4024efd0ff61e9765df26359d456dc2f2ad29b3c9daaa1c9ccd8"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "4304a84d6282e7473d85a9cc59be6743dc05d451"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[LoopTools.download]]
+    sha256 = "45ed72dc039994d63e66a55e1562ed372a824ea746947f855cb2260bedea264b"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "221b6091c062113c7507d9a35811e12fe4a0b5f6"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[LoopTools.download]]
+    sha256 = "4ed20e7b0bafc404bd535e30dc645ba55a94802db35c44c05071a0ba78d1cf54"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "363c10a095b889aa01b1077df787646e4e72197c"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[LoopTools.download]]
+    sha256 = "b5fcb16c54f242c070c187627c4c3a292e39b710ef8b7b5646a0d2da23c60f0c"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "dd542c474701dfff5446240c4ebda4e24cea92ac"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[LoopTools.download]]
+    sha256 = "51b70350f65567cc58531b3a37ac8cf3a4d23b830c9d63a83c06c41be03de8db"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "5d0f22096ec4723c82c27861d8a6f0c1ef77a96e"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "3d91d50a2b1c8a826fdc73585a8367c3a5f166dfc095afd4ba43f44446ffe7a1"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "597d871f42a763b5c24867b2b48a95979735cf48"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "8954a3ccf0407c5ba88325abd5f30e8aa1c2544ddd49c94e9c7a902ff1cfa9ca"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[LoopTools]]
+arch = "x86_64"
+git-tree-sha1 = "96437626ed7f615b1162efcd3741840ae1c74392"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[LoopTools.download]]
+    sha256 = "7f9eab1edb880372bd9d88c952e37fcc0fe3e0a88df9b380a2d54cc5f103ad0a"
+    url = "https://github.com/JuliaBinaryWrappers/LoopTools_jll.jl/releases/download/LoopTools-v2.15.0+0/LoopTools.v2.15.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
